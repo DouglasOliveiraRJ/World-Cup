@@ -12,4 +12,4 @@ CREATE TABLE cadastro (
   percentual_jogadores_elite decimal(5,2) NOT NULL,
   pais_sede tinyint(1) NOT NULL,
   PRIMARY KEY (id_selecao)
-  )
+  );
