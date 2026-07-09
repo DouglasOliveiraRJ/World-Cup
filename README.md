@@ -160,18 +160,18 @@ return np.random.choice([0, 1, 2], p=probabilidade)
 Após processar as 10.000 rodadas completas do motor de Monte Carlo (simulando desde os grupos até a grande final), o script consolida a taxa probabilística de sucesso de cada país. 
 Abaixo está o formato do output gerado pelo modelo mostrando todas as 48 seleções, mas destacando as **Top 10 seleções com as maiores probabilidades de levantar a taça** da Copa do Mundo de 2026:
 
-| Posição | Seleção | Grupos (%) | 16 avos (%) | Oitavas (%) | Quartas (%) | Semifinal (%) | Final (%) | Campeão (%)|
-| :---: | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| 1 | Argentina| 98.6% |  | 66.7%  | 43.9% | 28.1% | 17.9% | 11.0% |
-| 2 | Espanha | 94.1% |  | 61.4% | 39.4% | 25.1% | 15.9% | 10.0% |
-| 3 | Portugal | 95.2% |  | 62.5% | 40.0% | 24.6% | 14.9% | 8.6% |
-| 4 | Inglaterra | 96.2% |  | 60.1% | 37.2% | 22.8% | 13.7% | 7.7% |
-| 5 | França | 96.0% |  | 59.8% | 36.0% | 21.1% | 12.0% | 6.8% |
-| 6 | Alemanha | 97.4% |  | 59.2% | 35.0% | 20.4% | 11.4% | 6.2% |
-| 7 | Brasil | 93.7% |  | 60.0% | 36.7% | 21.5% | 11.4% | 6.2% |
-| 8 | Holanda | 94.0% |  | 56.3% | 32.5% | 17.6% | 8.8% | 4.2% |
-| 9 | Uruguai | 93.2% |  | 52.5% | 28.2% | 14.5% | 7.2% | 3.4% |
-| 10 | Marrocos | 91.1% |  | 50.7% | 26.9% | 13.5% | 6.6% | 3.2% |
+| Posição | Seleção | Grupos (%) | 16 avos (%) | Oitavas (%) | Quartas (%) | Semifinal (%) | Campeão (%)|
+| :---: | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
+| 1 | Argentina| 98.5% | 66.0% | 43.4% | 28.4% | 18.3% | 11.2% |
+| 2 | Espanha | 93.7% | 61.0% | 38.9% | 24.3% | 14.9% | 9.4% |
+| 3 | Portugal | 95.0% | 62.8% | 40.5% | 25.0% | 15.0% | 8.5% |
+| 4 | Inglaterra | 96.7% | 61.9% | 37.7% | 22.4% | 13.8% | 7.8% |
+| 5 | França | 96.1% | 59.5% | 35.7% | 20.9% | 12.0% | 6.7% |
+| 6 | Brasil | 94.0% | 60.1% | 36.8% | 22.0% | 12.3% | 6.3% |
+| 7 | Alemanha | 97.3% | 59.7% | 36.1% | 20.4% | 11.3% | 6.3% |
+| 8 | Holanda | 94.3% | 55.4% | 30.6% | 17.0% | 8.7% | 4.2% |
+| 9 | Uruguai | 93.2% | 51.5% | 27.8% | 14.5% | 7.2% | 3.4% |
+| 10 | Bélgica | 83.8% | 47.3% | 25.9% | 13.4% | 6.8% | 3.3% |
 
 ---
 
